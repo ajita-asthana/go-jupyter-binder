@@ -8,7 +8,7 @@ Click the button below to launch this repository on binder.
 ```
 https://mybinder.org/v2/gh/ajita-asthana/go-jupyter-binder/HEAD
 ```
-https://mybinder.org/badge_logo.svg
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajita-asthana/go-jupyter-binder/HEAD)
 
 # Contents
     . hello-go.ipynb: A simple notebook demonstrating basic Go functionality
